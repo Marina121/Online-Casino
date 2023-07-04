@@ -1,0 +1,32 @@
+
+  .slider-container {
+    width: 100%; 
+    margin: 0 auto; 
+    height: 40%;
+    align-items: center;
+    background-color: aliceblue;
+    background: linear-gradient(to right, hsl(217, 69%, 40%), #f0eeec); 
+  -webkit-text-fill-color: transparent;
+  }
+  
+.image-container {
+    margin-left: 30px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+  .slide-title {
+    display: flex;
+    align-items: center;
+    color: black;
+   
+  }
+  .slide-title h3 {
+    margin-right: 20px; 
+    font-size:xx-large;;
+   
+    
+  }
+  
+  
+  

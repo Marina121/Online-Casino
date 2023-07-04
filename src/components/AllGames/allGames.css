@@ -1,0 +1,80 @@
+/* Stil za card-container koji će prikazivati kartice igara u redu */
+.card-container-games {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    grid-gap: 10px;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 5rem;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 10px;
+    margin: 100px;
+  }
+  
+  /* Stil za svaku pojedinačnu karticu igre */
+  .card-games {
+    width: 250px;
+    background-color: black;
+    border: 1px solid #0c0909;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 10px;
+    padding-left: 5px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Stil za sliku igre */
+  .card-img {
+    object-fit: cover;
+    border-radius: 5px;
+    width: 100px;
+    height: 70px;
+    display: flex; 
+   margin-left: 30px;
+  }
+  
+  /* Stil za dugme koje će prikazivati/pritajiti opis igre */
+  .btn-link-games {
+    background: none;
+    border: none;
+    color: red;
+    cursor: pointer;
+  }
+  
+  /* Stil za opis igre koji će biti proširen kad korisnik klikne na dugme */
+  .card-description {
+    max-height: 100px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+  
+  /* Stil za prošireni opis igre */
+  .card-description.expanded {
+    max-height: none;
+  }
+  .h2-games{
+    color: hwb(0 11% 24%);
+    font-style: italic;
+    font-family : 'dancing-script';
+  }
+  .h1-games{
+    margin-left: 15px;
+    font-style: italic;
+    font-family : 'dancing-script';
+    margin-bottom: 20px;
+  }
+  .card-description-games {
+    margin-top: 20px;
+    color: hwb(0 11% 24%);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-style: italic;
+  }
+  

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f34a1fa.css",
+    "main.js": "/static/js/main.17103815.js",
+    "static/js/787.2cb62c9c.chunk.js": "/static/js/787.2cb62c9c.chunk.js",
+    "static/media/blackJack.png": "/static/media/blackJack.e5cc1b8f35c972bfea13.png",
+    "static/media/roulette.png": "/static/media/roulette.9c0129ae98030e6bb382.png",
+    "static/media/Slot_Machine.png": "/static/media/Slot_Machine.ff90f9046feffe981c8a.png",
+    "index.html": "/index.html",
+    "main.1f34a1fa.css.map": "/static/css/main.1f34a1fa.css.map",
+    "main.17103815.js.map": "/static/js/main.17103815.js.map",
+    "787.2cb62c9c.chunk.js.map": "/static/js/787.2cb62c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f34a1fa.css",
+    "static/js/main.17103815.js"
+  ]
+}

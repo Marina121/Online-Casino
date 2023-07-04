@@ -1,0 +1,67 @@
+{
+  "casinogame": [
+    {
+      "id": 1,
+      "name": "Slot Machine",
+      "category": "Slots",
+      "image": "/images/slot_machine.png",
+      "description": "Classic slot machine game with 3 reels and 1 payline."
+    },
+    {
+      "id": 2,
+      "name": "Blackjack",
+      "category": "Table Games",
+      "image": "/images/blackjack.png",
+      "description": "Popular card game where the goal is to beat the dealer's hand without going over 21."
+    },
+    {
+      "id": 3,
+      "name": "Roulette",
+      "category": "Table Games",
+      "image": "/images/roulette.png",
+      "description": "Classic casino game where players bet on which number or color the ball will land on the spinning wheel."
+    },
+    {
+      "id": 4,
+      "name": "Video Poker",
+      "category": "Video Poker",
+      "image": "/images/poker.png",
+      "description": "Poker game played on a computerized console, similar to a slot machine."
+    },
+    {
+      "id": 5,
+      "name": "Baccarat",
+      "category": "Table Games",
+      "image": "/images/baccarat.png",
+      "description": "Popular card game where players bet on the outcome of two hands: the 'player' and the 'banker'."
+    },
+    {
+      "id": 6,
+      "name": "Craps",
+      "category": "Table Games",
+      "image": "/images/craps.png",
+      "description": "Dice game where players bet on the outcome of the roll of two dice."
+    },
+    {
+      "id": 7,
+      "name": "Texas Hold'em",
+      "category": "Poker",
+      "image": "/images/texas.png",
+      "description": "Popular variant of poker where players are dealt two private cards and five community cards, and aim to make the best hand possible."
+    },
+    {
+      "id": 8,
+      "name": "Keno",
+      "category": "Lottery",
+      "image": "/images/keno.png",
+      "description": "Lottery-style game where players choose numbers from a pool, and winners are determined by a random number generator."
+    },
+    {
+      "id": 9,
+      "name": "Wheel of Fortune",
+      "category": "Other Games",
+      "image": "/images/Wheel_of_Fortune.png",
+      "description": "Game of chance where players spin a large vertical wheel and win prizes based on where the wheel stops."
+    }
+  ]
+}

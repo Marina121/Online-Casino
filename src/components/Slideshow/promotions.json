@@ -1,0 +1,34 @@
+{
+  "promotions": [
+    {
+      "title": "Dobrodošli bonus",
+      "image": "images/bonus.png",
+      "description": "Iskoristite naš dobrodošli bonus i osvojite dodatni novac pri registraciji.",
+      "expiryDate": "2023-12-31"
+    },
+    {
+      "title": "Besplatni okretaji",
+      "image": "images/free.png",
+      "description": "Osvojite besplatne okretaje na popularnim slot igrama svaki tjedan.",
+      "expiryDate": "2023-09-30"
+    },
+    {
+      "title": "Black Jack turnir",
+      "image": "images/tournament.png",
+      "description": "Sudjelujte u blackjack turniru i osvojite velike nagrade.",
+      "expiryDate": "2023-08-15"
+    },
+    {
+      "title": "Rulet srijedom",
+      "image": "images/promo.png",
+      "description": "Igrajte rulet srijedom i udvostručite svoje dobitke.",
+      "expiryDate": "2023-07-28"
+    },
+    {
+      "title": "VIP klub",
+      "image": "images/vip.png",
+      "description": "Postanite član VIP kluba i uživajte u ekskluzivnim pogodnostima i bonusima.",
+      "expiryDate": "2023-12-31"
+    }
+  ]
+}

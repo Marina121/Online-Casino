@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "name": "The Eye of Horus",
+      "image": "images/MerkurSpiele/MerkurEyeOfHorusMulti.jpg",
+      "description": "The Eye of Horus is a slot machine casino game with three or more reels. "
+    },
+    {
+      "name": "Fishin' Frenzy MULTI",
+      "image": "images/MerkurSpiele/MerkurFishinFrenzyMulti.gif",
+      "description": "Fishin' Frenzy MULTI is a slot machine casino game with three or more reels."
+    },
+    {
+      "name": "Blazing Star",
+      "image": "images/MerkurSpiele/MerkurBlazingStarMulti.jpg",
+      "description": "Blazing Star is a slot machine casino game with three or more reels."
+    },
+    {
+      "name": "Fruitinator",
+      "image": "images/MerkurSpiele/MerkurFruitinatorDoublePlay.jpg",
+      "description": "Fruitinator is a slot machine casino game with three or more reels. "
+    },
+    {
+      "name": "Triple triple chance ",
+      "image": "images/MerkurSpiele/MerkurTripleTripleChanceDoublePlay.gif",
+      "description": "Triple triple chance is a slot machine casino game with three or more reels. "
+    },
+    {
+      "name": "Multi wild",
+      "image": "images/MerkurSpiele/MerkurMultiWildDoublePlay.jpg",
+      "description": "Multi wild is a slot machine casino game with three or more reels."
+    },
+    {
+      "name": "Knight's life",
+      "image": "images/MerkurSpiele/MerkurKnightsLifeDoublePlay.jpg",
+      "description": "Knight's life is a slot machine casino game with three or more reels. "
+    },
+    {
+      "name": "Dragon Treasure",
+      "image": "images/MerkurSpiele/MerkurDragonsTreasureExtraSpin.jpg",
+      "description": "Dragon Treasure is a slot machine casino game with three or more reels."
+    },
+    {
+      "name": "Eltorero",
+      "image": "/images/MerkurSpiele/MerkurElTorero.gif",
+      "description": "Eltorero is a slot machine casino game with three or more reels. "
+    },
+    {
+      "name": "Ghost Slider",
+      "image": "/images/MerkurSpiele/MerkurGhostSlider.gif",
+      "description": "Ghost Slider is a slot machine casino game with three or more reels. "
+    }
+  ]
+}
