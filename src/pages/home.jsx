@@ -22,7 +22,7 @@ function Index() {
 			<div className="grid-main">
 				<div className="home-slot">
 					<div className="page-slot">
-						<div className="grid-header" align-items-center pt-2>
+						<div className="grid-header" >
 							<h2 class="sm-head headline text-center with-button">
 								<div className="headline-border">
 									Merkur Spiele
@@ -56,10 +56,10 @@ function Index() {
 			<div className="grid-main">
 				<div className="home-slot">
 					<div className="page-slot">
-						<div className="grid-header" align-items-center pt-2>
+						<div className="grid-header"  >
 							<h2 class="sm-head headline text-center with-button">
 								<div className="headline-border">
-									Merkur Spiele
+									Novomatic Spiele
 								</div>
 							</h2>
 							<Slider className="slider-games">

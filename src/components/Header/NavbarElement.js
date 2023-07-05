@@ -15,7 +15,7 @@ export const Nav = styled.nav`
 `;
 
 export const NavLink = styled(Link)`
-  color: white;
+  color: #fc0;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -23,27 +23,23 @@ export const NavLink = styled(Link)`
   height: 100%;
   cursor: pointer;
   &.active {
-    color: yellow;
+    color: white;
   }
 `;
 
 export const Bars = styled(FaBars)`
-  display: none;
-  color: white;
-  @media screen and (max-width: 768px) {
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    transform: translate(-100%, 75%);
-    font-size: 1.8rem;
-    cursor: pointer;
-  }
+  top: 0px;
+  position: fixed !important;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 0px;
+  z-index: 1040;
+  background: #132b51;
+  transition: 0.5s;
 `;
 
 export const NavMenu = styled.div`
   display: flex;
-  align-items: center;
   margin-right: -24px;
   /* Second Nav */
   /* margin-right: 24px; */
@@ -58,7 +54,7 @@ white-space: nowrap; */
 export const NavBtn = styled.nav`
   display: flex;
   align-items: center;
-  margin-right: 24px;
+  margin-right: -94px;
   /* Third Nav */
   /* justify-content: flex-end;
 width: 100vw; */
@@ -68,20 +64,19 @@ width: 100vw; */
 `;
 
 export const NavBtnLink = styled(Link)`
-  border-radius: 4px;
-  background: yellow;
-  padding: 10px 22px;
-  color: #000000;
-  outline: none;
-  border: none;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-  /* Second Nav */
-  margin-left: 24px;
-  &:hover {
-    transition: all 0.2s ease-in-out;
-    background: #fff;
-    color: #808080;
+color: #000;
+background: #fc0;
+border-radius: 4px;
+padding: 10px 20px;
+font-size: 16px;
+display: inline-flex;
+justify-content: center;
+align-items: center;
+font-style: normal;
+font-family: SourceSansProRegular;
+transition: .3s;
+border: none;
+text-shadow: none;
+cursor: pointer;
   }
 `;

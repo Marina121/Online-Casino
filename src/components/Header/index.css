@@ -1,34 +1,29 @@
-/* registration.css */
-
-.form-label {
-    font-weight: bold;
-
-    
-  }
-  
-  .form-control {
-    margin-bottom: 10px;
-  }
-  
-  .valid-feedback {
-    color: green;
-  }
-  
-  .invalid-feedback {
-    color: red;
-  }
-  
-  .btn-primary {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-  }
-  
-  .btn-primary:hover {
-    background-color: #0056b3;
-  }
-  .img-slide{
-    width: 150px;
-    height: min-content;
-  }
-  
+.main-header{
+  top: 0px;
+  position: fixed! important;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 0px;
+  z-index: 1040;
+  background:#132b51 ;
+  transition: .5s;
+}
+.navbar{
+  display: block;
+}
+ul{
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.nav-item{
+  display: flex;
+  align-items: center;
+  padding: 0;
+  height: 60px;
+}
+li {
+  text-align: -webkit-match-parent;
+}

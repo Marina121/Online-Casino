@@ -25,7 +25,7 @@ function App() {
           <Route path="/register" element={<Register />} />
           <Route path="/products" element={<Products />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/" component={AllGames} />
+          <Route path="/" element={AllGames} />
           <Route path="/gameplay/:name" element={<Gameplay />} />
         </Routes>
       </Router>
@@ -35,5 +35,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
