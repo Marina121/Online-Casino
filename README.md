@@ -2,13 +2,13 @@
 
 OnlineCasino is a web application that offers a variety of casino games and promotions. Users can enjoy a wide selection of casino games right from the comfort of their devices. The application also includes features for future implementation of payment methods through various credit cards, as well as user registration and login functionalities.
 
-![Login](/images/REDME/login.png)
-![Register](/images/REDME/registrieren.png)
+![Login](public/images/REDME/login.png)
+![Register](public/images/REDME/registrieren.png)
 
 ## Features
 
 - **Casino Games**: Experience the thrill of playing different casino games, including slots, roulette, poker, and more.
-  ![Games](/images/REDME/alleSpiele.png)
+  ![Games](public/images/REDME/alleSpiele.png)
 
 - **Promotions**: Take advantage of exciting promotions and bonuses to enhance your gaming experience.
 
